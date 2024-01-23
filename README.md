@@ -1,6 +1,6 @@
-![alt tag](https://github.com/suportecavalcante/zabbix.templates/blob/master/screenshots/zabbix.jpg)
+![alt tag](https://github.com/itfinden/Zabbix_Template/blob/main/screenshots/zabbix.jpg)
 
-Autor: Diego Cavalcante\
+Autor: Friedrich von Muhlenbrock\
 E-Mail: diego@suportecavalcante.com.br\
 Telegram: @diego_cavalcante\
 Zabbix Share: [https://share.zabbix.com/owner/diegocavalcante](https://share.zabbix.com/owner/diegocavalcante)
